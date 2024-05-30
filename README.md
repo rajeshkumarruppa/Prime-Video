@@ -1,4 +1,4 @@
-checkout this page here:https://rajeshkumar1998.ccbp.tech/
+checkout this page here:(https://rajprimevideo19.ccbp.tech/)
 
 In this project, let's build a **Prime Video** by applying the concepts we have learned till now.
 
